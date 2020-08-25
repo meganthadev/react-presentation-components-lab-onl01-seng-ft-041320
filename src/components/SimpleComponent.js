@@ -10,9 +10,11 @@ class SimpleComponent extends React.Component {
     }
   }
   
+  handleClick
+  
   render() {
     return(
-      <div>
+      <div onClick={this.handleClick}>
         
       </div>
       )
