@@ -10,7 +10,9 @@ class SimpleComponent extends React.Component {
     }
   }
   
-  handleClick
+  handleClick = () => {
+    
+  }
   
   render() {
     return(
