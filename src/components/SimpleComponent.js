@@ -11,7 +11,7 @@ class SimpleComponent extends React.Component {
   }
   
   handleClick = () => {
-    
+    this.setState
   }
   
   render() {
