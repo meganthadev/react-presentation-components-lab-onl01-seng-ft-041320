@@ -12,7 +12,7 @@ class SimpleComponent extends React.Component {
   
   handleClick = () => {
     this.setState({
-      
+      mood: "sad"
     })
   }
   
