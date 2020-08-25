@@ -15,7 +15,7 @@ class SimpleComponent extends React.Component {
   render() {
     return(
       <div onClick={this.handleClick}>
-        
+        {this.state.mood}
       </div>
       )
   }
