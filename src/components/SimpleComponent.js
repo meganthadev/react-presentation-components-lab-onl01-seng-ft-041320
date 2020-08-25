@@ -1,6 +1,6 @@
 import React from 'react'
 
-class SimpleComponent extends React.Component {
+class SimpleComponent extends Component {
   
   constructor() {
     super()
